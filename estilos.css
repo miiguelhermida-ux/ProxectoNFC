@@ -19,9 +19,12 @@ body {
     display: block;
     padding: 16px;
     margin: 15px 0;
-    border: 2px solid black;
+    border: 2px solid #c65a00;
+    background-color: #f28c28;
+    color: white;
     border-radius: 10px;
     text-decoration: none;
+    font-weight: bold;
     font-size: 18px;
 }
 
